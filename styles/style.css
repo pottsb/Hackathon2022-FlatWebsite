@@ -1,0 +1,96 @@
+html, body { 
+    height: 100%;
+    width: 100%;
+    margin: 0;
+
+}
+.mainContainer {
+    height: 100%;
+	width: 100%;
+}
+.headerContainer {
+	height: 20%;
+    width: 100%;
+	background-color: lightpink;
+    position: relative;
+
+}
+
+.logoContainer{
+    height:100%;
+    width: 10%;
+    margin-left: 2%;
+    float: left;
+}
+
+.logo{
+    background-image: url(../images/logo.gif);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size:contain;
+    height: 100%;
+    width: 100%;
+}
+
+.linkbarContainer {
+    height:100%;
+	width: 50%;
+    float:left;
+    margin: auto auto;
+
+    bottom: 0;
+
+    position: relative;
+
+   
+
+}
+.linkBar{
+    width:100%;
+    position: absolute; 
+    bottom: 10px;
+  
+
+}
+
+.nav-pills .nav-link, .nav-pills .show>.nav-link {
+
+    margin-left: 10px;
+}
+
+.contentContainer {
+	background-image: url("../images/testback.png");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size:contain;
+	width: 100%;
+    height:80%;
+	/*overflow: hidden;*/
+}
+
+.col1{
+    width:40%;
+    height:100%;
+    text-align: center;
+    float:left;
+
+}
+.col2{
+    width:60%;
+    height:100%;
+    float:right;
+
+}
+.centre {
+    margin: auto;
+    padding: 40% 0;
+  }
+
+
+
+.footerContainer {
+	height: 200px;
+	background-color: #f1f1f1;
+	width: 100%;
+
+}

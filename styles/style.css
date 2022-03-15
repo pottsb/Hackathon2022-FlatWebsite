@@ -112,6 +112,20 @@ h1 {
     width:50%;
     height:100%;
     float:right;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mascot{
+    height: 60%;
+    flex: 0 0 80%;
+    background-image: url("../images/kiara.png");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size:contain;
+
 }
 
 .keyFactsCol1{

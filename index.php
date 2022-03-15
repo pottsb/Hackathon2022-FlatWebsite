@@ -25,6 +25,7 @@
             </div>
             <div class="IndexCol2">
 
+            <div class="mascot"></div>
             </div>
         </div>
 </div>

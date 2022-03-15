@@ -34,16 +34,21 @@ html, body {
 
 .linkbarContainer {
     height:100%;
-	width: 50%;
+	width: 80%;
     float:left;
     margin: auto auto;
 
     bottom: 0;
 
     position: relative;
+    background-color: red;
+   
 
    
 
+}
+.titleContainer{
+    margin-left: 10px;
 }
 .linkBar{
     width:100%;
@@ -62,7 +67,7 @@ html, body {
 	background-image: url("../images/testback.png");
     background-position: center;
     background-repeat: no-repeat; 
-    background-size:contain;
+    background-size:cover;
 	width: 100%;
     height:80%;
 	/*overflow: hidden;*/
@@ -74,6 +79,10 @@ html, body {
     text-align: center;
     float:left;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 .col2{
     width:60%;
@@ -82,8 +91,7 @@ html, body {
 
 }
 .centre {
-    margin: auto;
-    padding: 40% 0;
+    flex: 0 0 120px;
   }
 
 

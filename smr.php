@@ -15,12 +15,12 @@
             </div>
             <div class="keyFactsCol2">
                 <div class="contentTitle">
-                    <h1>Key Facts</h1>
+                    <h1>Rolls Royce SMR</h1>
                     <h3>Sub title</h3>
                     <p>SOme text here about out cause</p>
                 </div>
                 <div class="contentBody">
-                    <h4>Rolls Royce SMR</h4>
+                    <h4>TEXT</h4>
                     <ul>
                         <li>Coffee</li>
                         <li>Tea</li>

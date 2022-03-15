@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@400;700&display=swap');
 
 ::selection {
     background-color: rgb(200, 230, 180, 0.4);
@@ -8,7 +8,7 @@ html, body {
     height: 100%;
     width: 100%;
     margin: 0;
-    font-family: 'Fredoka One', cursive !important;
+    font-family: 'Laila', sans-serif !important;
     font-size: 1.15em;
 }
 .mainContainer {

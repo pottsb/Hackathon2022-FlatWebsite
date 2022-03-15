@@ -31,11 +31,7 @@
         </div>
     </div>
 
+    <script src="scripts/fade.js"></script>
 <?php include("includes/footer.php");?>
-<script>
-  $(function() {
-    $("#carbon").tab('show');
-  });
-</script>
 </body>
 </html>

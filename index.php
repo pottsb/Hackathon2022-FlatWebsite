@@ -25,6 +25,7 @@
             </div>
             <div class="IndexCol2">
 
+            <div class="mascot"></div>
             </div>
         </div>
 </div>
@@ -33,5 +34,10 @@
 
 
 <?php include "includes/footer.php" ;?>
+<script>
+  $(function() {
+    $("#home").tab('show');
+  });
+</script>
 </body>
 </html>

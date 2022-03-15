@@ -114,8 +114,6 @@ h1, h2, h3, p { cursor: default; }
     width:50%;
     height:100%;
     padding-left: calc(4vh + 4vw);
-
-    text-align: center;
     float:left;
 
     display: flex;
@@ -127,6 +125,20 @@ h1, h2, h3, p { cursor: default; }
     width:50%;
     height:100%;
     float:right;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mascot{
+    height: 60%;
+    flex: 0 0 80%;
+    background-image: url("../images/kiara.png");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size:contain;
+
 }
 
 .keyFactsCol1{
@@ -167,6 +179,7 @@ h1, h2, h3, p { cursor: default; }
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 0.5vh;
     padding: calc(1vh + 1vw);
+    text-align: center;
   }
 
 .sidePod{

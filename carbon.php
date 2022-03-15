@@ -15,7 +15,7 @@
             </div>
             <div class="keyFactsCol2">
                 <div class="contentTitle">
-                    <h1>Our Carbon Journey</h1>
+                    <h2>Our Carbon Journey</h2>
                     <h3>Sub title</h3>
                     <p>SOme text here about out cause</p>
                 </div>

@@ -15,7 +15,7 @@
             </div>
             <div class="keyFactsCol2">
                 <div class="contentTitle">
-                    <h1>Rolls Royce SMR</h1>
+                    <h2>Rolls Royce SMR</h2>
                     <h3>Sub title</h3>
                     <p>SOme text here about out cause</p>
                 </div>

@@ -28,7 +28,11 @@
                 </div>
             </div>
             <div class="IndexCol2">
-
+            <div class="centre">
+                  <h2>Placeholder Text</h2>
+                  <p>Nuclear power is fun<br>
+                    <a href="#"><h3>PLAY NOW<!/h3></a>
+                </div>
             </div>
         </div>
 </div>

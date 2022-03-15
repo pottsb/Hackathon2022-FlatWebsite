@@ -11,10 +11,12 @@ html, body {
     font-family: 'Laila', sans-serif !important;
     font-size: 1.15em;
 }
+
 .mainContainer {
     height: 100%;
 	width: 100%;
 }
+
 .headerContainer {
 	height: 20%;
     width: 100%;
@@ -49,12 +51,11 @@ html, body {
     bottom: 0;
 
     position: relative;
-
 }
 
 .titleContainer {
     margin-left: 10px;
-} 
+}
 
 h1 {
     position: relative;
@@ -112,7 +113,7 @@ h1, h2, h3, p { cursor: default; }
     background-image: url("../images/testback.png");
 }
 
-.keyFactsBody{
+.keyFactsBody {
     background-image: url("../images/keyfacts.png");
 }
 
@@ -138,7 +139,6 @@ h1, h2, h3, p { cursor: default; }
 }
 
 .keyFactsCol1 {
-
     width:15%;
     height:100%;
     text-align: center;
@@ -150,11 +150,9 @@ h1, h2, h3, p { cursor: default; }
 }
 
 .keyFactsCol2 {
-
     width:85%;
     height:100%;
     float:right;
-
 }
 
 .contentTitle {
@@ -183,7 +181,7 @@ h1, h2, h3, p { cursor: default; }
 .halfContent {
     flex: 0 0 76.5%;
     float: right;
-  }
+}
 
 .fullContent {
     flex: 0 0 40%;
@@ -196,12 +194,14 @@ h1, h2, h3, p { cursor: default; }
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 0 0.25rem 0.25rem 0;
     padding: 30px 30px 30px 30px;
-
 }
 
 .footerContainer {
 	height: 200px;
 	background-color: #f1f1f1;
 	width: 100%;
+}
 
+a h3 {
+    color: green;
 }

@@ -21,6 +21,9 @@
                         <li class="nav-item">
                           <a class="nav-link" href="smr.php">Rolls-Royce SMR</a>
                         </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="game.php">Game</a>
+                        </li>
                       </ul>
                 </div>
             </div> 

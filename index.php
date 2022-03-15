@@ -8,8 +8,9 @@
         <div class="contentContainer indexBody">
             <div class="IndexCol1">
                 <div class="centre">
-                  <h2>Placeholder Text</h2>
-                  <p>Nuclear power is fun<br>
+                  <h2>EARTH  HAS  TOO<br>MUCH  CARBON!</h2>
+                  <p>
+                    Earth-chan<br>
                     All the cool kids are doing it<br>
                     You wanna be cool right?<br>
                     All the cool kids are doing it<br>
@@ -20,11 +21,6 @@
                     You wanna be cool right?<br>
                     All the cool kids are doing it<br>
                     You wanna be cool right?<br>
-                    All the cool kids are doing it<br>
-                    All the cool kids are doing it<br>
-                    All the cool kids are doing it<br>
-                    All the cool kids are doing it<br>
-                    All the cool kids are doing it</p>
                 </div>
             </div>
             <div class="IndexCol2">

@@ -14,12 +14,11 @@
                 </div>
             </div>
             <div class="keyFactsCol2">
-                <div class="contentTitle">
+                <div class="contentBody">
                     <h2>Our Carbon Journey</h2>
                     <h3>Sub title</h3>
                     <p>SOme text here about out cause</p>
-                </div>
-                <div class="contentBody">
+                
                     <h4>TEXT</h4>
                     <ul>
                         <li>Coffee</li>

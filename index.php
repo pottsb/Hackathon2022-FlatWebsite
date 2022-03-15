@@ -10,8 +10,8 @@
                 <div class="centre">
                   <h2>EARTH  HAS  TOO<br>MUCH  CARBON!</h2>
                   <p>
-                    Earth-chan<br>
-                    All the cool kids are doing it<br>
+                    Earth-chan does not like too much carbon<br>
+                    We must help her<br>
                     You wanna be cool right?<br>
                     All the cool kids are doing it<br>
                     You wanna be cool right?<br>

@@ -10,19 +10,19 @@
                   
                     <ul class="nav nav-pills">
                         <li class="nav-item">
-                          <a class="nav-link active" href="index.php">Home</a>
+                          <a class="nav-link" id="home" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="powergeneration.php">Power Generation</a>
+                          <a class="nav-link" id="powergeneration" href="powergeneration.php">Power Generation</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="carbon.php">Our Carbon Journey</a>
+                          <a class="nav-link" id="carbon" href="carbon.php">Our Carbon Journey</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="smr.php">Rolls-Royce SMR</a>
+                          <a class="nav-link" id="smr" href="smr.php">Rolls-Royce SMR</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="game.php">Game</a>
+                          <a class="nav-link" id="game" href="game.php">Game</a>
                         </li>
                       </ul>
                 </div>

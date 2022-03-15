@@ -37,5 +37,10 @@
 
 
 <?php include "includes/footer.php" ;?>
+<script>
+  $(function() {
+    $("#game").tab('show');
+  });
+</script>
 </body>
 </html>

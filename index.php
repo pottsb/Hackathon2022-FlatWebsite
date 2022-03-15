@@ -33,5 +33,10 @@
 
 
 <?php include "includes/footer.php" ;?>
+<script>
+  $(function() {
+    $("#home").tab('show');
+  });
+</script>
 </body>
 </html>

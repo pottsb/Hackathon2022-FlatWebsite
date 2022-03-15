@@ -32,5 +32,10 @@
     </div>
 
 <?php include("includes/footer.php");?>
+<script>
+  $(function() {
+    $("#powergeneration").tab('show');
+  });
+</script>
 </body>
 </html>

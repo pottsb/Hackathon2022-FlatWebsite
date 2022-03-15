@@ -85,8 +85,8 @@ h1, h2, h3, p { cursor: default; }
 }
 
 .nav-link.active {
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 6px;
+    padding-bottom: 6px;
 
     background-color: green !important;
 

@@ -6,9 +6,9 @@
   <?php include "includes/header.php" ; ?>
 
         <div class="contentContainer indexBody">
-            <div class="IndexCol1">
-                <div class="centre">
-                  <h2>EARTH-CHAN NEEDS<br>YOUR HELP!</h2>
+            <div class="leftContentParent">
+                <div class="halfContent">
+                  <h2>Earth-chan Needs Our Help!</h2>
                   <p>
                     Earth-chan does not like too much carbon.<br>
                     We must help Earth-chan and her friends!<br>
@@ -25,7 +25,7 @@
                     within the atmosphere, this increases the temperature of our planet and our oceans.
                 </div>
             </div>
-            <div class="IndexCol2">
+            <div class="rightContentParent">
               <div class="mascot"></div>
             </div>
         </div>

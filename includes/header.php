@@ -13,7 +13,7 @@
                           <a class="nav-link active" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="Keyfacts.php">Key Facts</a>
+                          <a class="nav-link" href="keyfacts.php">Key Facts</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" href="#">Link</a>

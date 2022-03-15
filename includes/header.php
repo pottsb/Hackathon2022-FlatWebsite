@@ -13,13 +13,13 @@
                           <a class="nav-link active" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="keyfacts.php">Key Facts</a>
+                          <a class="nav-link" href="powergeneration.php">Power Generation</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="#">Link</a>
+                          <a class="nav-link" href="carbon.php">Our Carbon Journey</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="#">Link</a>
+                          <a class="nav-link" href="smr.php">Rolls-Royce SMR</a>
                         </li>
                       </ul>
                 </div>

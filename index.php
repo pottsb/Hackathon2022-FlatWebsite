@@ -21,11 +21,11 @@
                     You wanna be cool right?<br>
                     All the cool kids are doing it<br>
                     You wanna be cool right?<br>
+                  </p>
                 </div>
             </div>
             <div class="IndexCol2">
-
-            <div class="mascot"></div>
+              <div class="mascot"></div>
             </div>
         </div>
 </div>

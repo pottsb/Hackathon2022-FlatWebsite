@@ -60,13 +60,20 @@ html, body {
 }
 
 .contentContainer {
-	background-image: url("../images/testback.png");
     background-position: center;
     background-repeat: no-repeat; 
     background-size:cover;
 	width: 100%;
     height:80%;
 	/*overflow: hidden;*/
+}
+
+.indexBody{
+    background-image: url("../images/testback.png");
+}
+
+.keyFactsBody{
+    background-image: url("../images/facts.jpg");
 }
 
 .col1{

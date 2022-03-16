@@ -11,8 +11,3 @@ loop();
 
 
 
-$('.deselectedFlag').mouseover(function(){
-  $('.deselectedFlag').css("grayscale", "0%");
-}).mouseout(function(){
-  $('.deselectedFlag').css("grayscale", "70%");
-});

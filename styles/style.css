@@ -66,7 +66,7 @@ html, body {
 .localisation{
     min-height:30%;
 
-    background-color: gray;
+    background-color: lightgrey;
     border-radius:  0 0 0 0.5vh ;
     padding: 0 30px 0 30px;
 
@@ -76,6 +76,10 @@ html, body {
 .deselectedFlag {
     filter: grayscale(70%);
   }
+
+.deselectedFlag:hover{
+    filter: grayscale(0%);
+}
 
 .localisation img{
     margin-bottom: 10px;

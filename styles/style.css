@@ -158,7 +158,7 @@ div.starField{
 }
 
 .backingPowerGeneration{
-    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
+    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing_powergeneration.png");
 }
 
 .backingCarbon{

@@ -12,7 +12,7 @@
                   <h2>Join Earth-chan's Adventure!</h2>
                   <p>
                     Help <strong>Earth-chan</strong> develop friendships. Every choice is your own!<br>
-                    In this game, you'll meet <strong>Nyuki</strong>, <strong>Kaoru</strong>, and <strong>Desol</strong>.<br>
+                    In this game, you'll meet <strong>Newkey</strong>, <strong>Cole</strong>, and <strong>Sunny</strong>.<br>
                   </p>
                     <ul class="nav nav-pills buttonContainer">
                       <li class="nav-item"><a class="nav-link active" target="_blank" href="game/index.html">PLAY NOW</a></li>

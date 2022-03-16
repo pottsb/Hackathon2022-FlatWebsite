@@ -30,9 +30,9 @@
             <div class="localisationContainer">
                 <div class="localisation">
 
-                <img src="../images/flags/gb.png" width="48" height="36" alt="Great Britan">
-                <img src="../images/flags/de.png" width="48" height="36" alt="Germany" class="deselectedFlag">
-                <img src="../images/flags/fr.png" width="48" height="36" alt="France" class="deselectedFlag">
+                <a href="#"><img src="../images/flags/gb.png" width="48" height="36" alt="Great Britan"></a>
+                <a href="#"><img src="../images/flags/de.png" width="48" height="36" alt="Germany" class="deselectedFlag"></a>
+                <a href="#"><img src="../images/flags/fr.png" width="48" height="36" alt="France" class="deselectedFlag"></a>
 
                 </div>
             </div>

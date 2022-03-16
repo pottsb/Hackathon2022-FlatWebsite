@@ -11,18 +11,21 @@
                   <h2>Earth-chan Needs Our Help!</h2>
                   <p>
                     Earth-chan does not like too much carbon.<br>
-                    We must help Earth-chan and her friends!<br>
-                    <br>
+                    We must help Earth-chan and her friends!</p>
+                    
                     <strong>What is Carbon Dioxide?</strong><br>
-                    It is a colourless gas found in the air.<br>
-                    It is an important greeenhouse gas that helps trap heat in our atmosphere.<br>
+                    <p  class="indentedP">
+                      It is a colourless gas found in the air.<br>
+                      It is an important greeenhouse gas that helps trap heat in our atmosphere.</p>
                     <br>
                     <strong>Where Does it Come From?</strong><br>
-                    It comes from natural (breath of animals, volcanoes) and human sources (burning coal and oil).<br>
+                    <p  class="indentedP">
+                      It comes from natural (breath of animals, volcanoes) and human sources (burning coal and oil).</p>
                     <br>
                     <strong>Why is it Harmful?</strong><br>
-                    Increased carbon dioxide in the atmosphere, creates a layer that traps the heat energy from the sun<br>
-                    within the atmosphere, this increases the temperature of our planet and our oceans.
+                    <p class="indentedP">
+                      Increased carbon dioxide in the atmosphere, creates a layer that traps the heat energy from the sun
+                      within the atmosphere, this increases the temperature of our planet and our oceans.</p>
                 </div>
             </div>
             <div class="rightContentParent">

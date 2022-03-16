@@ -8,6 +8,3 @@ function loop(){
 }
 
 loop();
-
-
-

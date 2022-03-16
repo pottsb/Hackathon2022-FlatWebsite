@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="Team Fission" />
-    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="keywords" content="Nuclear, Rolls-Royce, SMR, Energy, Power, Green">
 
     <title>Team Fission - Low Carbon</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">

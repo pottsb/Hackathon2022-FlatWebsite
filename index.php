@@ -5,7 +5,7 @@
   <?php include "includes/head.php" ; ?>
   <?php include "includes/header.php" ; ?>
 
-        <div class="contentContainer backing">
+        <div class="contentContainer backingIndex">
             <div class="leftContentParent">
                 <div class="halfContent">
                   <h2>Earth-chan Needs Our Help!</h2>

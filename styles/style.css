@@ -138,7 +138,21 @@ h1, h2, h3, p { cursor: default; }
 	/*overflow: hidden;*/
 }
 
-.backing{
+.backingIndex{
+    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
+}
+
+.backingPowerGeneration{
+    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
+}
+
+.backingCarbon{
+    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
+}
+.backingGame{
+    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
+}
+.backingSMR{
     background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
 }
 

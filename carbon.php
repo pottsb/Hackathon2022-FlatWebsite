@@ -5,7 +5,7 @@
     <?php include("includes/head.php"); ?>
     <?php include "includes/header.php" ; ?>
 
-    <div class="contentContainer backing">
+    <div class="contentContainer backingCarbon">
         <div class="leftContentParent" style="width: 70%">
                 <div class="halfContent" style="flex: 0 0 83.2%">
                     <h2>Our Carbon Journey</h2>

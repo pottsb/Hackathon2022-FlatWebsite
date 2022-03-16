@@ -5,7 +5,7 @@
   <?php include "includes/head.php" ; ?>
   <?php include "includes/header.php" ; ?>
 
-        <div class="contentContainer backing">
+        <div class="contentContainer backingGame">
             <div class="fullContentParent">
               <div> <div class="earthIdle"></div>
                 <div class="fullContent">

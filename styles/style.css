@@ -82,6 +82,11 @@ h1, h2, h3, p { cursor: default; }
     bottom: 10px;
 }
 
+.buttonContainer {
+    justify-content: center;
+    align-items: center;
+}
+
 .nav-pills .nav-link, .nav-pills .show>.nav-link {
     color: green;
     margin-left: 10px;
@@ -117,24 +122,35 @@ h1, h2, h3, p { cursor: default; }
     background-image: url("../images/testback.png");
 }
 
-.leftContentParent { float: left; }
-.rightContentParent { float: right; }
-.fullContentParent { width: 100%; }
+.leftContentParent { float: left; justify-content: right; }
+.rightContentParent { float: right; justify-content: center; }
+.fullContentParent { width: 100%; justify-content: center; padding-bottom: 15vh; }
 .leftContentParent, .rightContentParent { width: 50%; }
 .leftContentParent, .rightContentParent, .fullContentParent {
     height: 100%;
 
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
-.mascot {
-    height: 60%;
-    flex: 0 0 80%;
-    background-image: url("../images/kiara.png");
+.earthIdle {
+    position: relative;
+    height: 35vh;
+    margin-left: 8.5vw;
+
+    background-image: url("../images/earthchan_neutral.png");
     background-repeat: no-repeat; 
-    background-size:contain;
+    background-size: contain;
+}
+
+.mascot {
+    position: relative;
+    height: 85%;
+    flex: 0 0 70%;
+    background-image: url("../images/earth_chan_float.png");
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-clip: content-box;
 
 }
 
@@ -201,8 +217,4 @@ h1, h2, h3, p { cursor: default; }
 	height: 200px;
 	background-color: #f1f1f1;
 	width: 100%;
-}
-
-a h3 {
-    color: green;
 }

@@ -7,20 +7,18 @@
 
         <div class="contentContainer indexBody">
             <div class="fullContentParent">
+              <div> <div class="earthIdle"></div>
                 <div class="fullContent">
                   <h2>Join Earth-chan's Adventure!</h2>
-                  <p>Nuclear power is fun<br>
-                    All the cool kids are doing it<br>
-                    You wanna be cool right?<br>
-                    All the cool kids are doing it<br>
-                    You wanna be cool right?<br>
-                    All the cool kids are doing it<br>
-                    You wanna be cool right?<br>
-                    All the cool kids are doing it<br>
-                    You wanna be cool right?<br></p>
-                    <a href="#"><h3>PLAY NOW<!/h3></a>
+                  <p>
+                    Help <strong>Earth-chan</strong> develop friendships. Every choice is your own!<br>
+                    In this game, you'll meet <strong>Nyuki</strong>, <strong>Kaoru</strong>, and <strong>Desol</strong>.<br>
+                  </p>
+                    <ul class="nav nav-pills buttonContainer">
+                      <li class="nav-item"><a class="nav-link active" target="_blank" href="/game/index.html/">PLAY NOW</a></li>
+                    </ul>
                 </div>
-            </div>
+            </div> </div>
         </div>
 </div>
 

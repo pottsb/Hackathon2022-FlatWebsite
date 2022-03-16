@@ -13,16 +13,16 @@
                   You wanna be cool right?</p>
                 </div>
             </div>
-            <div class="keyFactsCol2">
+            <div class="fullContentParent">
                 <div class="contentBody">
                     <h2>Power Generation</h2>
                     <h3>Sub title</h3>
                     <p>SOme text here about out cause</p>
                     <h4>TEXT</h4>
                     <ul>
-                        <li>Coffee</li>
-                        <li>Tea</li>
-                        <li>Milk</li>
+                      <li>Coffee</li>
+                      <li>Tea</li>
+                      <li>Milk</li>
                     </ul>
                 </div>
             </div>

@@ -6,6 +6,7 @@
   <?php include "includes/header.php" ; ?>
 
         <div class="contentContainer backingGame">
+        <div class="starField"></div>
             <div class="fullContentParent">
               <div> <div class="earthIdle"></div>
                 <div class="fullContent">
@@ -18,7 +19,10 @@
                       <li class="nav-item"><a class="nav-link active" target="_blank" href="game/index.html">PLAY NOW</a></li>
                     </ul>
                 </div>
-            </div> </div>
+            </div> 
+            
+          </div>
+          
         </div>
 </div>
 

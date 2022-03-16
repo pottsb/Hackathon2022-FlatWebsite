@@ -162,7 +162,7 @@ div.starField{
 }
 
 .backingCarbon{
-    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
+    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing_carbon.png");
 }
 .backingGame{
     background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
@@ -173,11 +173,9 @@ div.starField{
 
 .leftContentParent { float: left; justify-content: right; }
 .rightContentParent { float: right; justify-content: center; }
-.fullContentParent { width: 100%; justify-content: center; padding-bottom: 15vh; }
-.leftContentParent, .rightContentParent { width: 50%; }
+.fullContentParent { width: 100%; justify-content: center; padding-top: 7.5vh; position:absolute; z-index: 2}
+.leftContentParent, .rightContentParent { width: 50%; height: 100%;}
 .leftContentParent, .rightContentParent, .fullContentParent {
-    height: 100%;
-
     display: flex;
     align-items: center;
 }

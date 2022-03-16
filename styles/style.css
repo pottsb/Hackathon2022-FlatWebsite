@@ -73,6 +73,10 @@ html, body {
 
 }
 
+.deselectedFlag {
+    filter: grayscale(70%);
+  }
+
 .localisation img{
     margin-bottom: 10px;
     margin-top: 10px;

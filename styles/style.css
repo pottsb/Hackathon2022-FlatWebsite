@@ -33,8 +33,6 @@ html, body {
 }
 
 .logo{
-    opacity: 0;
-
     background-image: url(../images/logo.gif);
     background-position: center;
     background-repeat: no-repeat; 
@@ -60,8 +58,6 @@ html, body {
 h1 {
     position: relative;
     font-size: 2.75em;
-    left: 20px;
-    opacity: 0;
 
     font-family: 'Fredoka One', cursive !important;
 

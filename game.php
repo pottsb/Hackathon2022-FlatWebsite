@@ -15,7 +15,7 @@
                     In this game, you'll meet <strong>Nyuki</strong>, <strong>Kaoru</strong>, and <strong>Desol</strong>.<br>
                   </p>
                     <ul class="nav nav-pills buttonContainer">
-                      <li class="nav-item"><a class="nav-link active" target="_blank" href="/game/index.html/">PLAY NOW</a></li>
+                      <li class="nav-item"><a class="nav-link active" target="_blank" href="game/index.html">PLAY NOW</a></li>
                     </ul>
                 </div>
             </div> </div>

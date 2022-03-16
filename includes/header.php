@@ -6,7 +6,7 @@
             <div class="linkbarContainer">
 
                 <div class="linkBar">
-                  <div class="titleContainer"><h1>Low Carbon</h1></div>
+                  <div class="titleContainer"><h1>The Fission Project</h1></div>
                   
                     <ul class="nav nav-pills">
                         <li class="nav-item">

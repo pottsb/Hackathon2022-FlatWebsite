@@ -15,7 +15,7 @@
                         <li>In <strong>2019</strong> the UK government amended the climate change act to commit the UK to achieving net zero carbon emissions within the next <strong>20 years</strong>.</li>
                         <li>The UK government plan that all new vehicles will be zero emissions within the next <strong>20 years</strong>.</li>
                         <li>By <strong>2050</strong> electric cars and vans will need more energy (<strong>65-100Twh</strong>) annually which is <strong>20-30%</strong> more than needed today.</li>
-                        <li>By <strong>2050</strong> the majority of current UK nuclear powerplants will have to ne shut down due to reaching the end of their service life.</li>
+                        <li>By <strong>2050</strong> the majority of current UK nuclear powerplants will have to be shut down due to reaching the end of their service life.</li>
                         <li>New nuclear powerplants will be constructed to maintain the low carbon power provided by nuclear energy.</li>
 
                     </ul>

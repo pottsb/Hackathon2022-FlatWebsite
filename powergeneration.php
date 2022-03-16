@@ -13,7 +13,7 @@
                   You wanna be cool right?</p>
                 </div>
             </div>
-            <div class="fullContentParent">
+            <div class="keyFactsCol2">
                 <div class="contentBody">
                     <h2>Power Generation</h2>
                     <h3>Sub title</h3>

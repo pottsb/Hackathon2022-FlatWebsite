@@ -179,8 +179,8 @@ h1, h2, h3, p { cursor: default; }
 
 .mascot {
     position: relative;
-    height: 85%;
-    flex: 0 0 70%;
+    height: 70VH;
+    flex: 0 0 60VH;
     background-image: url("../images/earth_chan_float.png");
     background-repeat: no-repeat; 
     background-size: contain;

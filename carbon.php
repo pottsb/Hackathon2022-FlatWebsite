@@ -9,7 +9,7 @@
         <div class="leftContentParent" style="width: 70%">
                 <div class="halfContent" style="flex: 0 0 83.2%">
                     <h2>Our Carbon Journey</h2>
-                    <h3>About Our Journey To Lower Carbon Emissions</h3>
+                    <<strong>h3>About Our Journey To Lower Carbon Emissions</h3></strong>
                     <ul>
                         <li>In <strong>2010</strong> over <strong>53%</strong> of global primary oil consumption was used to meet <strong>94%</strong> of the total energy demand.</li>
                         <li>In <strong>2019</strong> the UK government amended the climate change act to commit the UK to achieving net zero carbon emissions within the next <strong>20 years</strong>.</li>

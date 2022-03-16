@@ -27,4 +27,9 @@
                       </ul>
                 </div>
             </div> 
+            <div class="localisationContainer">
+                <div class="localisation">
+
+                </div>
+            </div>
         </div>

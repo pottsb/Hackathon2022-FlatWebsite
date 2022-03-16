@@ -9,7 +9,7 @@
         <div class="leftContentParent" style="width: 70%">
             <div class="halfContent" style="flex: 0 0 83.2%">
                     <h2>Power Generation</h2>
-                    <strong><h3>Where does our power come from?</h3></strong>
+                    <strong>Where does our power come from?</strong>
                     <ul>
                     <li>In the UK most of our power is produced by a combination of fossil fuels such as gas and coal which emit carbon dioxide into the atmosphere.</li>
                     <li>In <strong>2020 59%</strong> of the UKs power came from low carbon sources, <strong>16%</strong> being nuclear.</li>

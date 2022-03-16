@@ -17,7 +17,7 @@
                     <strong>What is Carbon Dioxide?</strong><br>
                     <p  class="indentedP">
                       Carbon dioxide is a colourless gas found in the air.<br>
-                      It is an important greeenhouse gas that trap heat in our atmosphere.</p>
+                      It is an important greeenhouse gas that traps heat in our atmosphere.</p>
                     <br>
                     <strong>Where Does it Come From?</strong><br>
                     <p  class="indentedP">

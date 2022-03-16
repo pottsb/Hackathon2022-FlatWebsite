@@ -5,7 +5,7 @@
     <?php include("includes/head.php"); ?>
     <?php include "includes/header.php" ; ?>
 
-    <div class="contentContainer keyFactsBody">
+    <div class="contentContainer backing">
             <div class="keyFactsCol1">
                 <div class="sidePod">
                   <p>Nuclear power is fun<br>

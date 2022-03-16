@@ -111,11 +111,11 @@ h1, h2, h3, p { cursor: default; }
 }
 
 .indexBody{
-    background-image: url("../images/testback.png");
+    background-image: url("../images/backing.png");
 }
 
 .keyFactsBody{
-    background-image: url("../images/testback.png");
+    background-image: url("../images/backing.png");
 }
 
 .leftContentParent { float: left; justify-content: right; }
@@ -182,7 +182,7 @@ h1, h2, h3, p { cursor: default; }
 }
 
 .fullContent, .halfContent {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.8);
     border-radius: 0.5vh;
 
     padding: calc(1vh + 1vw);
@@ -204,7 +204,7 @@ h1, h2, h3, p { cursor: default; }
     width:100%;
     height:40%;
 
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.8);
     border-radius: 0 0.5vh 0.5vh 0;
     padding: 30px 30px 30px 30px;
 }

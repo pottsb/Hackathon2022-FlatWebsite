@@ -138,6 +138,21 @@ h1, h2, h3, p { cursor: default; }
 	/*overflow: hidden;*/
 }
 
+div.starField{
+
+    z-index:1;
+    position: absolute;
+
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size:cover;
+	width: 100%;
+    height:80VH;
+    
+    background-image: url("../images/stars.png");
+
+}
+
 .backingIndex{
     background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
 }
@@ -178,6 +193,7 @@ h1, h2, h3, p { cursor: default; }
 }
 
 .mascot {
+    z-index: 3;
     position: relative;
     height: 70VH;
     flex: 0 0 60VH;
@@ -189,6 +205,7 @@ h1, h2, h3, p { cursor: default; }
 }
 
 .fullContent, .halfContent {
+    z-index: 2;
     padding: calc(1vh + 1vw);
     padding-left: calc(2vh + 2vw);
     padding-right: calc(2vh + 2vw);

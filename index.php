@@ -6,6 +6,7 @@
   <?php include "includes/header.php" ; ?>
 
         <div class="contentContainer backingIndex">
+          <div class="starField"></div>
             <div class="leftContentParent">
                 <div class="halfContent">
                   <h2>Earth-chan Needs Our Help!</h2>
@@ -31,6 +32,7 @@
             <div class="rightContentParent">
               <div class="mascot"></div>
             </div>
+          
         </div>
 </div>
 

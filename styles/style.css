@@ -51,6 +51,28 @@ html, body {
     position: relative;
 }
 
+.localisationContainer{
+    height:100%;
+	width: 7.5%;
+    float:right;
+    margin: auto auto;
+    align-items: center;
+    bottom: 0;
+
+    position: relative;
+
+}
+
+.localisation{
+    min-height:40%;
+
+    background-color: gray;
+    border-radius:  0.5vh 0 0 0.5vh ;
+    padding: 30px 30px 30px 30px;
+
+
+}
+
 .titleContainer {
     margin-left: 10px;
 }

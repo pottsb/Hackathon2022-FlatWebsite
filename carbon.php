@@ -6,15 +6,8 @@
     <?php include "includes/header.php" ; ?>
 
     <div class="contentContainer backing">
-            <div class="keyFactsCol1">
-                <div class="sidePod">
-                  <p>Nuclear power is fun<br>
-                  All the cool kids are doing it<br>
-                  You wanna be cool right?</p>
-                </div>
-            </div>
-            <div class="keyFactsCol2">
-                <div class="contentBody">
+        <div class="leftContentParent">
+                <div class="halfContent">
                     <h2>Our Carbon Journey</h2>
                     <h3>About Our Journey To Lower Carbon Emissions</h3>
                     <ul>

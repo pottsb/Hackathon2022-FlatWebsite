@@ -14,6 +14,8 @@
                     <li>Rolls Royce are developing their <strong>small modular reactor or SMR</strong>, a modern nuclear power station in <strong>Derby</strong>, to meet the nuclear power needs of the UK and more.</li>
                     <li>Rolls Royce has <strong>60</strong> years of experience producing small reactors for submarines and believes the SMR will offer <strong>clean, affordable energy for all.</strong></li>
                     <li>The Rolls Royce SMR team aims to build the <strong>first</strong> power plant by <strong>2030</strong> and <strong>15</strong> more by <strong>2040</strong>, which could create <strong>40,000</strong> jobs in an industry leading field.</li>
+                    <li>An SMR will take up the space equivalent to one tenth of the size that current nuclear generation sites currently take up.</li>
+                    <li>Rolls Royce is the largest employer of nuclear engineers and scientists in the country with decades of experience.</li>
                     <li>People of your age will be part of this project in the future!</li>
                     </ul>
                 </div>

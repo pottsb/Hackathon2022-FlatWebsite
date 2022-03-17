@@ -26,15 +26,16 @@ html, body {
 
 .logoContainer{
     height:100%;
-    width: 15vh;
+    width: Calc(6vh + 4vw);
     margin-left: 2%;
     margin-right: 1.5%;
+    padding-bottom: 2.5vh;
     float: left;
 }
 
 .logo{
     background-image: url(../images/logo.png);
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat; 
     background-size:contain;
     height: 100%;

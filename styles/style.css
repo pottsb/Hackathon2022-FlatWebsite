@@ -20,7 +20,7 @@ html, body {
 .headerContainer {
 	height: 20%;
     width: 100%;
-	background: linear-gradient(white, 80%, rgb(216, 200, 210));
+	background: linear-gradient(white, 95%, rgb(230, 230, 230));
     position: relative;
 }
 
@@ -154,21 +154,21 @@ div.starField{
 }
 
 .backingIndex{
-    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
+    background-image: linear-gradient(transparent, 80%, rgba(255,255,255, 0.1)), url("../images/backing.png");
 }
 
 .backingPowerGeneration{
-    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing_powergeneration.png");
+    background-image: linear-gradient(transparent, 80%, rgba(255,255,255, 0.1)), url("../images/backing_powergeneration.png");
 }
 
 .backingCarbon{
-    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing_carbon.png");
+    background-image: linear-gradient(transparent, 80%, rgba(255,255,255, 0.1)), url("../images/backing_carbon.png");
 }
 .backingGame{
-    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing.png");
+    background-image: linear-gradient(transparent, 80%, rgba(255,255,255, 0.1)), url("../images/backing.png");
 }
 .backingSMR{
-    background-image: linear-gradient(transparent, 70%, rgba(255,255,255, 0.25)), url("../images/backing_smr.png");
+    background-image: linear-gradient(transparent, 80%, rgba(255,255,255, 0.1)), url("../images/backing_smr.png");
 }
 
 .leftContentParent { float: left; justify-content: right; }
